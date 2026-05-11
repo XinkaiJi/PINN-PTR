@@ -1,5 +1,5 @@
 # PINN-PTR
-The official codebase for the paper "Physics-Informed Neural Network for Platoon Trajectory Estimation: a Hybrid Paradigm Informed by Car-following Models"
+The official codebase for the paper "Physics-Informed Neural Network for Trajectory Reconstruction: A Hybrid Paradigm Informed by Car-Following Models"
 
 The source code is currently being organized and will be open-sourced and uploaded soon.
 
