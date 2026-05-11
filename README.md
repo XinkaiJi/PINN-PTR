@@ -6,6 +6,8 @@ The source code is currently being organized and will be open-sourced and upload
 ## Dataset
 The Single-Lane Dataset has already been open-sourced. You can download it at: [https://swiftraj.com/download.html](https://swiftraj.com/download.html).
 
+The data were collected on the Nanjing Inner Ring West Line, an elevated segment of Nanjing’s urban expressway network. The study section is configured as a two-way, two-lane roadway, with one lane per direction, meaning that lane-changing maneuvers are not possible within the observed area. Two UAVs were deployed simultaneously to record the traffic scene, and the videos were subsequently stitched in post-processing to obtain continuous vehicle trajectories. For the data collected on November 1, the resulting trajectories cover an approximately 1,000 m road segment and include six independent collection sessions, labeled F1–F6. In particular, session F5 was captured with the road segment arranged diagonally in the image frame, aiming to extend the observable road coverage and obtain a longer trajectory extraction range. For the data collected on November 14, the resulting trajectories cover an approximately 700 m road segment and include three independent collection sessions, labeled AD, BE, and CF.
+
 ## Citation
 If you use this code or dataset in your research, please cite our paper:
 
